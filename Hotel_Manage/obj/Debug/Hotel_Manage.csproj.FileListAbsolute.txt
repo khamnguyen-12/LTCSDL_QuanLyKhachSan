@@ -1,0 +1,17 @@
+D:\Lập trình CSDL\Hotel_Manage\Hotel_Manage\bin\Debug\Hotel_Manage.exe.config
+D:\Lập trình CSDL\Hotel_Manage\Hotel_Manage\bin\Debug\Hotel_Manage.exe
+D:\Lập trình CSDL\Hotel_Manage\Hotel_Manage\bin\Debug\Hotel_Manage.pdb
+D:\Lập trình CSDL\Hotel_Manage\Hotel_Manage\bin\Debug\EntityFramework.dll
+D:\Lập trình CSDL\Hotel_Manage\Hotel_Manage\bin\Debug\EntityFramework.SqlServer.dll
+D:\Lập trình CSDL\Hotel_Manage\Hotel_Manage\bin\Debug\EntityFramework.xml
+D:\Lập trình CSDL\Hotel_Manage\Hotel_Manage\bin\Debug\EntityFramework.SqlServer.xml
+D:\Lập trình CSDL\Hotel_Manage\Hotel_Manage\obj\Debug\Hotel_Manage.csproj.AssemblyReference.cache
+D:\Lập trình CSDL\Hotel_Manage\Hotel_Manage\obj\Debug\Hotel_Manage.Properties.Resources.resources
+D:\Lập trình CSDL\Hotel_Manage\Hotel_Manage\obj\Debug\Hotel_Manage.csproj.GenerateResource.cache
+D:\Lập trình CSDL\Hotel_Manage\Hotel_Manage\obj\Debug\Hotel_Manage.csproj.CoreCompileInputs.cache
+D:\Lập trình CSDL\Hotel_Manage\Hotel_Manage\obj\Debug\Hotel_Manage.csproj.CopyComplete
+D:\Lập trình CSDL\Hotel_Manage\Hotel_Manage\obj\Debug\Hotel_Manage.exe
+D:\Lập trình CSDL\Hotel_Manage\Hotel_Manage\obj\Debug\Hotel_Manage.pdb
+D:\Lập trình CSDL\Hotel_Manage\Hotel_Manage\obj\Debug\Hotel_Manage.FormLogin.resources
+D:\Lập trình CSDL\Hotel_Manage\Hotel_Manage\obj\Debug\Hotel_Manage.FormRegistCustomer.resources
+D:\Lập trình CSDL\Hotel_Manage\Hotel_Manage\obj\Debug\Hotel_Manage.FormAddRoom.resources
