@@ -7,11 +7,11 @@ Xây dựng phần mềm quản lý khách sạn đáp ứng đầy đủ các c
 
 Các chức năng chính của đề tài:
 
--Đăng nhập và đăng ký tài khoản.
--Quản lý thông tin tài khoản đăng nhập.
--Quản lý nhân viên (thêm, xóa, sửa, tìm kiếm, lưu thông tin cần thiết của nhân viên, …).
--Quản lý khách hàng (thêm, xóa, sửa, tìm kiếm, lưu thông tin cần thiết của khách hàng, …).
--Quản lý phòng (thêm, xóa, sửa, tìm kiếm, lưu thông tin cần thiết của phòng, loại phòng,…).
--Quản lý đặt phòng (thêm, xóa, sửa, tìm kiếm, lưu thông tin cần thiết của đặt phòng, …).
--Quản lý dịch vụ (thêm, xóa, sửa, tìm kiếm, lưu thông tin cần thiết của dịch vụ , …).
--Xem báo cáo doanh thu (Xem các báo cáo doanh thu theo tháng,…)
+- Đăng nhập và đăng ký tài khoản.
+- Quản lý thông tin tài khoản đăng nhập.
+- Quản lý nhân viên (thêm, xóa, sửa, tìm kiếm, lưu thông tin cần thiết của nhân viên, …).
+- Quản lý khách hàng (thêm, xóa, sửa, tìm kiếm, lưu thông tin cần thiết của khách hàng, …).
+- Quản lý phòng (thêm, xóa, sửa, tìm kiếm, lưu thông tin cần thiết của phòng, loại phòng, …).
+- Quản lý đặt phòng (thêm, xóa, sửa, tìm kiếm, lưu thông tin cần thiết của đặt phòng, …).
+- Quản lý dịch vụ (thêm, xóa, sửa, tìm kiếm, lưu thông tin cần thiết của dịch vụ, …).
+- Xem báo cáo doanh thu (xem các báo cáo doanh thu theo tháng, …).
